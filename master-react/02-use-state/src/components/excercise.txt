@@ -1,0 +1,15 @@
+1. Create a component (DONE)
+
+2. Receive a prop with the current year. (DONE)
+
+3. Use functions to retreive the year. (DONE)
+
+4. Use states and events to have buttons.
+    - Pass to the next year. (DONE)
+    - Go to last year. (DONE)
+    - Show every time the year on the screen. (DONE)
+
+5. Validate year as a required value (prop). (DONE)
+
+6. Change gear throughout a text input and make it 
+    change dinamicly. (DONE)

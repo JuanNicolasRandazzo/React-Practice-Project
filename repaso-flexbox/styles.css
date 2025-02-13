@@ -1,0 +1,28 @@
+body{
+    background: beige;
+}
+
+
+.felx-containter{
+    border: 1px solid black;
+    background: #ccc;
+    padding: 20px;
+    display: flex;
+    flex-flow: row wrap ;
+    justify-content: space-between;
+}
+
+.box{
+    border: 1px solif #484444;
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    margin: 5px;
+
+}
+
